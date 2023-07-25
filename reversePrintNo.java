@@ -1,5 +1,5 @@
 import java.util.*;
-// In this we have to write teh number in reverse (means from left to right).
+// In this we have to write the number in reverse (means from left to right).
 public class reversePrintNo {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
